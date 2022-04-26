@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/16626691/165316292-79ee5683-5368-415b-8f0c-6226831d4caf.png">
+</p>
 
 # Leonteq Book Listing
 
