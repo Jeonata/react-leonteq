@@ -20,11 +20,13 @@ Simple book list, following the instructions required.
 
 ## Run the application
 
- To run the project, you will need to have installed in your computer: Git, Node ( v. 10.15 +) and Yarn ( v.1.15 +).
+ To run the project, you will need to have installed in your computer: Git, Node (v. 10.15 +) and Yarn (v.1.15 +).
 
  After install them, download or clone the project:
 
-    $ git clone https://github.com/Jeonata/
+    $ git clone https://github.com/Jeonata/react-leonteq.git 
+    or with ssh (best choice)
+    $ git clone git@github.com:Jeonata/react-leonteq.git
 
 
 ##To run the code, follow the instructions bellow:
